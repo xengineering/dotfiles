@@ -12,6 +12,7 @@ alias l='ls -CF'
 alias dot='/usr/bin/git --git-dir=$HOME/dotfiles.git/ --work-tree=$HOME'
 alias commit='git commit'
 alias gitstat='git status'
+alias ip='ip --color=auto'
 
 PATH=$PATH:~/bin
 
