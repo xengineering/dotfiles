@@ -185,3 +185,6 @@ bar {
 # lock screen
 bindsym $mod+Escape exec "i3lock -t -i ~/lockimage"
 
+# wallpaper
+exec feh --bg-fill ~/wallpaper
+
